@@ -54,5 +54,61 @@
     "department": "Legal",
     "role": "Lawyer",
     "salary": 190000
+  },
+  {
+    "id": 8,
+    "first_name": "Murphy",
+    "last_name": "Brown",
+    "department": "Sales",
+    "role": "Sales Lead",
+    "salary": 100000
+  },
+  {
+    "id": 9,
+    "first_name": "Jerry",
+    "last_name": "Seinfeld",
+    "department": "Sales",
+    "role": "Salesperson",
+    "salary": 80000
+  },
+  {
+    "id": 10,
+    "first_name": "Martin",
+    "last_name": "Sheen",
+    "department": "Engineering",
+    "role": "Lead Engineer",
+    "salary": 165000
+  },
+  {
+    "id": 11,
+    "first_name": "Kevin",
+    "last_name": "Lebowski",
+    "department": "Engineering",
+    "role": "Software Engineering",
+    "salary": 130000
+  },
+  {
+    "id": 12,
+    "first_name": "Xavier",
+    "last_name": "Cross",
+    "department": "Finance",
+    "role": "Account Manager",
+    "salary": 180000
+  },
+  {
+    "id": 13,
+    "first_name": "Edna",
+    "last_name": "Russell",
+    "department": "Legal",
+    "role": "Lawyer",
+    "salary": 180000
+  },
+  {
+    "id": 14,
+    "first_name": "Tim",
+    "last_name": "Allen",
+    "department": "Legal",
+    "role": "Lawyer",
+    "salary": 180000
   }
 ]

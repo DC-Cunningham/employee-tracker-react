@@ -51,9 +51,6 @@ function Directory() {
   return (
     <div>
       <Container>
-        <p className="mb-16 text-md">
-          Search for an employee or sort by Name and Department
-        </p>
         <Sorting
           onSearch={handleSearchTerm}
           searchTerm={searchTerm}

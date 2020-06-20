@@ -4,7 +4,7 @@ import "./style.css";
 
 function CardContainer() {
   return (
-    <div className="jumbotron card-container">
+    <div className="">
       <EmployeeCardList />
     </div>
   );
