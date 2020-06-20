@@ -4,7 +4,7 @@
 
 ## Description
 
-An employee directory built with React. This application's UI has been broken up into components that manage component state, and respond to user events.
+An employee directory built with React. This application's UI has been broken up into components that manage component state, and responds to user events.
 
 ## Table of Contents
 
