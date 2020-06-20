@@ -4,7 +4,7 @@ import "./style.css";
 
 function CardContainer() {
   return (
-    <div className="">
+    <div className="card-deck">
       <EmployeeCardList />
     </div>
   );
